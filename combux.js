@@ -1,6 +1,6 @@
 /*!
  *
- * Combux - Comparador y Buscador
+ * Combux - Comparador y buscador de texto
  * Copyright (c) 2019 JeiHO (https://github.com/jeijei4/Combux)
  * Licensed under MIT (http://www.opensource.org/licenses/mit-license.php)
  *
