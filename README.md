@@ -24,8 +24,8 @@ Ejemplo sin eliminar Diacríticos:
  * Si pSensible es 0: (case-insensitive) No distingue entre mayúsculas y minúsculas.
  * @param {String} pAguja
  * @param {String} pPajar
- * @param {Int} pEsIgual Default 1
- * @param {Int} pSensible Default 0
+ * @param {Number} pEsIgual Default 1
+ * @param {Number} pSensible Default 0
  * @return {Boolean}
  */
 let compararStrings = (pAguja, pPajar, pEsIgual, pSensible) => {
